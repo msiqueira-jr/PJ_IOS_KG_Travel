@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6271181D25428CAB00214EF0 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6271181C25428CAB00214EF0 /* MapViewController.swift */; };
 		62B62B612540A53900433867 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62B62B602540A53900433867 /* AppDelegate.swift */; };
 		62B62B632540A53900433867 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62B62B622540A53900433867 /* SceneDelegate.swift */; };
 		62B62B652540A53900433867 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62B62B642540A53900433867 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6271181C25428CAB00214EF0 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		62B62B5D2540A53900433867 /* KG_Travel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KG_Travel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		62B62B602540A53900433867 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		62B62B622540A53900433867 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 				62B62B622540A53900433867 /* SceneDelegate.swift */,
 				62B62B642540A53900433867 /* ViewController.swift */,
 				62B62B662540A53900433867 /* Main.storyboard */,
+				6271181C25428CAB00214EF0 /* MapViewController.swift */,
 				62B62B7E2540DD9600433867 /* PlaceFinderViewController.swift */,
 				62B62B7B2540DCB900433867 /* PlacesTableViewController.swift */,
 				62B62B692540A53900433867 /* Assets.xcassets */,
@@ -176,6 +179,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				62B62B652540A53900433867 /* ViewController.swift in Sources */,
+				6271181D25428CAB00214EF0 /* MapViewController.swift in Sources */,
 				62B62B7C2540DCB900433867 /* PlacesTableViewController.swift in Sources */,
 				62B62B612540A53900433867 /* AppDelegate.swift in Sources */,
 				62B62B7F2540DD9600433867 /* PlaceFinderViewController.swift in Sources */,
